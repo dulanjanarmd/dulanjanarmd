@@ -1,62 +1,56 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dulanjanarmd/dulanjanarmd/main/header.png" alt="Header" width="100%" style="border-radius: 10px;" />
+  <h1>Hi there, I'm Dulanjana Rathnayaka 👋</h1>
   
-  <h1>Hi there, I'm Dulanjan ARM <img src="https://media.giphy.com/media/hv5u2M8E6oGfK/giphy.gif" width="30px"></h1>
+  <p><strong>Undergraduate Student | Aspiring Business Analyst | System Analyst | Data Analyst</strong></p>
   
-  <p><strong>Software Engineer</strong> | Building scalable applications & solving real-world problems</p>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=6e5494&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=dulanjanarmd&color=6e5494&style=for-the-badge)
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍🎓 About Me
 
-- 🔭 Currently working on **enterprise-level software solutions** as a Software Engineer
-- 🌱 Deeply exploring **Cloud Architecture, System Design, and Modern Web Technologies**
-- 💡 Passionate about writing clean, efficient, and maintainable code
-- 📚 Always learning and sharing knowledge through open source
-- 📫 Open to **collaborations, freelance opportunities, and interesting projects**
+- 🔍 Passionate about **bridging business needs with technology**
+- 📊 Interested in **Data Analysis, Business Intelligence, and System Optimization**
+- 🌱 Currently pursuing my undergraduate degree while building practical skills in analytics and system analysis
+- 💡 Love turning raw data into meaningful insights and designing efficient business solutions
+- 🤝 Open to internships, collaborations, and learning opportunities in **Business Analysis, System Analysis, and Data Analytics**
 
 ---
 
-### 🛠️ Technologies & Expertise
+### 🛠️ Skills & Tools
 
-**Languages**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+**Business & System Analysis**
+- Requirements Gathering • Process Modeling • Stakeholder Management • UML • BPMN
+
+**Data Analysis & Visualization**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
-**Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+**Technical Skills**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-**Backend & Databases**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-**Tools & Others**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+**Tools**
+- Microsoft Office Suite • Jira • Trello • Lucidchart • MySQL • Git
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dulanjanarmd&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180px" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulanjanarmd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
 </div>
 
 ---
 
-### 🌐 Let's Connect
+### 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dulanjanarmd)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
@@ -64,6 +58,6 @@
 ---
 
 <div align="center">
-  <i>“Code is like humor. When you have to explain it, it’s bad.”</i><br><br>
-  <strong>Thank you for visiting my profile! ✨ Feel free to explore my repositories.</strong>
+  <strong>Always eager to learn, analyze, and create value through data and systems.</strong><br>
+  Thank you for visiting my profile! ✨ Let's connect and grow together.
 </div>
