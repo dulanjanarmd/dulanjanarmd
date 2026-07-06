@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Dulanjana Rathnayaka 👋</h1>
   
-  <p><strong>Undergraduate Student | Aspiring Business Analyst | System Analyst | Data Analyst</strong></p>
+  <p><strong>Undergraduate Student At SLIIT | Aspiring Business Analyst | System Analyst | Data Analyst</strong></p>
   
   ![Profile Views](https://komarev.com/ghpvc/?username=dulanjanarmd&color=6e5494&style=for-the-badge)
 </div>
