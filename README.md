@@ -1,12 +1,13 @@
-# 👋 Hi, I'm Dulanjana Rathnayaka
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Dulanjana%20Rathanayaka&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Information%20Systems%20Engineering%20Undergraduate%20%40%20SLIIT&descAlignY=52&descSize=16)](https://github.com/dulanjanarmd)
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Dulanjana+Rathanayaka;Aspiring+Business+Analyst;Aspiring+Data+Analyst;Aspiring+Systems+Analyst;Java+%2B+Spring+Boot+Backend+Developer;React+%2B+Modern+UI+Enthusiast" alt="Typing SVG" />
+</p>
 
-## 📊 Information Systems Engineering          Undergraduate  
-## 🚀 Aspiring Business Analyst | Data Analyst | System    Analyst
 
-🎓 BSc (Hons) Information Technology Undergraduate  
-🏛️ Specializing in Information Systems Engineering  
+---
+
+🎓 BSc (Hons) Information Technology Specializing in Information Systems Engineering  
 📍 Sri Lanka Institute of Information Technology (SLIIT)
 
 ---
@@ -262,6 +263,10 @@ Currently building my professional knowledge through:
 
 <a href="https://www.facebook.com/dulanjanarmd">
   <img src="https://cdn.simpleicons.org/facebook" width="48" height="48" />
+</a>
+
+<a href="https://www.x.com/dulanjanarmd">
+  <img src="https://cdn.simpleicons.org/x" width="48" height="48" />
 </a>
 
 <a href="mailto:dulanjanarmd@gmail.com">
