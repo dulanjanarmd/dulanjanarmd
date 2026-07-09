@@ -270,23 +270,15 @@ Currently building my professional knowledge through:
   <img src="https://cdn.simpleicons.org/facebook" width="48" height="48" />
 </a>
 
-<a href="https://www.x.com/dulanjanarmd">
-  <img src="https://cdn.simpleicons.org/x" width="48" height="48" />
-</a>
-
 <a href="mailto:dulanjanarmd@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="mailto:dulanjanarmd@gmail.com">
+<a href="mailto:dulanjanarmd@outlook.com">
   <img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" width="48" height="48" />
 </a>
 
 </p>
-
-
-📧 Email: dulanjanarmd@gmail.com
-
 
 ---
 
