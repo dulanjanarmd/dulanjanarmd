@@ -252,8 +252,24 @@ Currently building my professional knowledge through:
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://github.com/dulanjanarmd/PrimeMedical-PharmInvent">
+<a href="https://github.com/dulanjanarmd">
 <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://wwww.instagram.com/dulanjanarmd">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="https://www.facebook.com/dulanjanarmd">
+  <img src="https://cdn.simpleicons.org/facebook" width="48" height="48" />
+</a>
+
+<a href="mailto:dulanjanarmd@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="mailto:dulanjanarmd@gmail.com">
+  <img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" width="48" height="48" />
 </a>
 
 </p>
