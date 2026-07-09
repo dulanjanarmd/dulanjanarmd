@@ -1,4 +1,4 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:C44BC4,50:6A5ACD,75:36BCF7,100:00D9C0&height=250&section=header&text=Dulanjana%20Rathanayaka&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Information%20Systems%20Engineering%20Undergraduate%20%40%20SLIIT&descAlignY=52&descSize=17)](https://github.com/dulanjanarmd)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:C44BC4,50:6A5ACD,75:36BCF7,100:00D9C0&height=250&section=header&text=Dulanjana%20Rathanayaka&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc)](https://github.com/dulanjanarmd)
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=800&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Dulanjana+Rathanayaka;Aspiring+Business+Analyst+%F0%9F%93%8A;Aspiring+Data+Analyst+%F0%9F%93%88;Aspiring+Systems+Analyst+%E2%9A%99%EF%B8%8F;Java+%2B+Spring+Boot+Backend+Developer;React+%2B+Modern+UI+Enthusiast" alt="Typing SVG" />
