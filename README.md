@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-## 📊 Information Systems Engineering    Undergraduate  
+## 📊 Information Systems Engineering          Undergraduate  
 ## 🚀 Aspiring Business Analyst | Data Analyst | System    Analyst
 
 🎓 BSc (Hons) Information Technology Undergraduate  
