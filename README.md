@@ -1,61 +1,265 @@
-<div align="center">
-  <h1>Hi there, I'm Dulanjana Rathnayaka 👋</h1>
-  
-  <p><strong>Undergraduate Student At SLIIT | Aspiring Business Analyst | System Analyst | Data Analyst</strong></p>
+# 👋 Hi, I'm Dulanjana Rathnayaka
 
-  
+<img align="right" alt="Data Analytics" width="350" src="https://user-images.githubusercontent.com/74038190/212284126-8b5b8f9e-0a0f-4d6f-9c8c-2f7c1e4e5e7a.gif">
 
----
+## 📊 Information Systems Engineering Undergraduate  
+## 🚀 Aspiring Business Analyst | Data Analyst | System Analyst and Designer
 
-### 👨‍🎓 About Me
-
-- 🔍 Passionate about **bridging business needs with technology**
-- 📊 Interested in **Data Analysis, Business Intelligence, and System Optimization**
-- 🌱 Currently pursuing my undergraduate degree while building practical skills in analytics and system analysis
-- 💡 Love turning raw data into meaningful insights and designing efficient business solutions
-- 🤝 Open to internships, collaborations, and learning opportunities in **Business Analysis, System Analysis, and Data Analytics**
+🎓 BSc (Hons) Information Technology Undergraduate  
+🏛️ Specializing in Information Systems Engineering  
+📍 Sri Lanka Institute of Information Technology (SLIIT)
 
 ---
 
-### 🛠️ Skills & Tools
+## 👨‍💻 About Me
 
-**Business & System Analysis**
-- Requirements Gathering • Process Modeling • Stakeholder Management • UML • BPMN
+I am an Information Systems Engineering undergraduate passionate about using **data, technology, and business analysis techniques** to solve real-world problems.
 
-**Data Analysis & Visualization**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+My goal is to bridge the gap between **business requirements and technology solutions** by analyzing data, understanding business processes, and designing efficient information systems.
 
-**Technical Skills**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+I am interested in:
 
-**Tools**
-- Microsoft Office Suite • Jira • Trello • Lucidchart • MySQL • Git
+- 📊 Data Analysis & Business Intelligence
+- 💼 Business Analysis
+- 🏢 System Analysis & Design
+- 🗄️ Database Management & Design
+- 💻 Software Engineering
+- 🚀 Digital Transformation Solutions
+
+I enjoy learning how organizations use technology and data to improve decision-making, optimize processes, and create better user experiences.
 
 ---
 
-### 📊 GitHub Statistics
+# 🎯 Career Goals
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dulanjanarmd&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180px" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulanjanarmd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
-</div>
+I am building my career towards becoming a professional:
+
+### 📊 Data Analyst
+Interested in:
+- Data cleaning and preparation
+- Data visualization
+- Extracting insights from data
+- Business reporting
+- Decision-support analytics
+
+
+### 💼 Business Analyst
+Interested in:
+- Requirement gathering
+- Stakeholder communication
+- Business process improvement
+- Solution evaluation
+- Documentation
+
+
+### 🏢 System Analyst
+Interested in:
+- System requirement analysis
+- System design
+- UML modeling
+- Database design
+- Software solution planning
+
 ---
 
-### 🌐 Connect With Me
+# 🛠️ Technical Skills
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dulanjanarmd)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dulanjanarmd@gmail.com)
+## 📊 Data Analytics
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
+
+Skills:
+- SQL
+- Data Analysis
+- Data Cleaning
+- Data Visualization
+- Excel
+- Business Intelligence Concepts
+
 
 ---
 
-<div align="center">
-  <strong>Always eager to learn, analyze, and create value through data and systems.</strong><br>
-  Thank you for visiting my profile! ✨ Let's connect and grow together.
-</div>
+## 💼 Business & System Analysis
+
+Skills:
+- Requirement Engineering
+- Business Process Analysis
+- UML Diagrams
+- Use Case Modeling
+- System Design
+- Documentation
+- SDLC
+- Agile Methodologies
+
+
+---
+
+## 💻 Programming & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,javascript,html,css,react,spring" />
+</p>
+
+Skills:
+- Java
+- JavaScript
+- React
+- Spring Boot
+- REST APIs
+- Object-Oriented Programming
+
+
+---
+
+## 🗄️ Database Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+</p>
+
+Skills:
+- Database Design
+- SQL Queries
+- Data Modeling
+- Database Management
+
+
+---
+
+## 🔧 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+</p>
+
+Tools:
+- Git & GitHub
+- Visual Studio Code
+- Postman
+- Docker
+- Development & Collaboration Tools
+
+---
+
+# 🚀 Featured Projects
+
+## 📚 Online Library Management System
+
+A web-based information system designed to manage library operations digitally.
+
+### Key Features:
+- User authentication
+- Role-based access control
+- Book management
+- Borrowing and renewal workflows
+- Administrative dashboard
+
+### Technologies:
+- React
+- Spring Boot
+- MySQL
+- REST API
+
+
+---
+
+## 🏥 Medical Inventory Management System
+
+A system designed to improve inventory management processes and provide efficient data handling.
+
+### Key Features:
+- Inventory tracking
+- Data management
+- User management
+- Business process improvement
+
+### Technologies:
+- Frontend Technologies
+- Backend APIs
+- Database Systems
+
+
+---
+
+# 📚 Currently Learning
+
+🌱 Improving my knowledge in:
+
+- Advanced SQL
+- Python for Data Analysis
+- Power BI
+- Data Visualization
+- Business Intelligence
+- Requirement Engineering
+- UML & System Modeling
+- Software Architecture
+- Agile Project Management
+
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dulanjanarmd&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulanjanarmd&layout=compact&theme=tokyonight" />
+
+</p>
+
+
+---
+
+# 📊 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dulanjanarmd&theme=tokyo-night"/>
+
+</p>
+
+
+---
+
+# 🏆 Certifications & Achievements
+
+Currently building my professional knowledge through:
+
+- Technology courses
+- Data analytics learning
+- Software engineering projects
+- Business analysis practices
+
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/dulanjanarmd">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/dulanjanarmd/PrimeMedical-PharmInvent">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</p>
+
+
+📧 Email: dulanjanarmd@gmail.com
+
+
+---
+
+# 💡 My Vision
+
+> "To combine business knowledge, data insights, and technology solutions to create meaningful impact."
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
