@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dulanjana Rathnayaka
 
-<img align="right" alt="Data Analytics" width="350" src="https://user-images.githubusercontent.com/74038190/212284126-8b5b8f9e-0a0f-4d6f-9c8c-2f7c1e4e5e7a.gif">
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 📊 Information Systems Engineering Undergraduate  
 ## 🚀 Aspiring Business Analyst | Data Analyst | System Analyst and Designer
