@@ -7,8 +7,13 @@
 
 ---
 
-🎓 BSc (Hons) Information Technology Specializing in Information Systems Engineering  
-📍 Sri Lanka Institute of Information Technology (SLIIT)
+<p align="center">
+  <img src="assets/sliit-logo.svg" width="200">
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=1000&color=00D9C0&center=true&vCenter=true&width=900&height=60&lines=BSc+(Hons)+Information+Technology;Specializing+in+Information+Systems+Engineering;%F0%9F%93%8D+Sri+Lanka+Institute+of+Information+Technology+(SLIIT)" alt="Education Typing SVG" />
+</p>
 
 ---
 
