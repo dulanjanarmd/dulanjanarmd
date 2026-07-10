@@ -217,11 +217,12 @@ A system designed to improve inventory management processes and provide efficien
 # 📈 GitHub Statistics
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dulanjanarmd&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulanjanarmd&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=dulanjanarmd&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulanjanarmd&layout=compact&theme=tokyonight" />
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=dulanjanarmd&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
 
