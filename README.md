@@ -4,13 +4,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=800&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Dulanjana+Rathanayaka;Aspiring+Business+Analyst+%F0%9F%93%8A;Aspiring+Data+Analyst+%F0%9F%93%88;Aspiring+Systems+Analyst+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
 </p>
 
-
----
-
-<p align="center">
-  <img src="assets/sliit-logo.svg" width="200">
-</p>
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=1000&color=00D9C0&center=true&vCenter=true&width=900&height=60&lines=BSc+(Hons)+Information+Technology;Specializing+in+Information+Systems+Engineering;%F0%9F%93%8D+Sri+Lanka+Institute+of+Information+Technology+(SLIIT)" alt="Education Typing SVG" />
 </p>
