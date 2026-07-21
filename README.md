@@ -257,41 +257,50 @@ Currently building my professional knowledge through:
 <a href="https://www.linkedin.com/in/dulanjanarmd">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+&nbsp;&nbsp;
 
 <a href="https://github.com/dulanjanarmd">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
+&nbsp;&nbsp;
 
-<a href="https://wwww.instagram.com/dulanjanarmd">
+<a href="https://www.instagram.com/dulanjanarmd">
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
+&nbsp;&nbsp;
 
 <a href="https://www.facebook.com/dulanjanarmd">
-  <img src="https://cdn.simpleicons.org/facebook" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/facebook" width="48" height="48" />
 </a>
+&nbsp;&nbsp;
 
-<a href="https://www.reddit.com/dulanjanarmd">
-  <img src="https://cdn.simpleicons.org/reddit" width="48" height="48" />
+<a href="https://www.reddit.com/user/dulanjanarmd">
+<img src="https://cdn.simpleicons.org/reddit" width="48" height="48" />
 </a>
+&nbsp;&nbsp;
 
-<a href="https://www.x.com/dulanjanarmd">
-  <img src="https://cdn.simpleicons.org/x" width="48" height="48" />
+<a href="https://x.com/dulanjanarmd">
+<img src="https://cdn.simpleicons.org/x" width="48" height="48" />
 </a>
+&nbsp;&nbsp;
 
-<a href="https://www.whatsapp.com/dulanjanarmd">
-  <img src="https://cdn.simpleicons.org/whatsapp" width="48" height="48" />
+<a href="https://wa.me/your-phone-number">
+<img src="https://cdn.simpleicons.org/whatsapp" width="48" height="48" />
 </a>
+&nbsp;&nbsp;
 
-<a href="https://www.medium.com/dulanjanarmd">
-  <img src="https://cdn.simpleicons.org/medium" width="48" height="48" />
+<a href="https://medium.com/@dulanjanarmd">
+<img src="https://cdn.simpleicons.org/medium" width="48" height="48" />
 </a>
+&nbsp;&nbsp;
 
 <a href="mailto:dulanjanarmd@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+&nbsp;&nbsp;
 
 <a href="mailto:dulanjanarmd@outlook.com">
-  <img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" width="48" height="48" />
+<img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" width="48" height="48" />
 </a>
 
 </p>
