@@ -284,7 +284,7 @@ Currently building my professional knowledge through:
 </a>
 &nbsp;&nbsp;
 
-<a href="https://wa.me/your-phone-number">
+<a href="https://wa.me/+94 70 152 5868">
 <img src="https://cdn.simpleicons.org/whatsapp" width="48" height="48" />
 </a>
 &nbsp;&nbsp;
@@ -298,10 +298,6 @@ Currently building my professional knowledge through:
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 &nbsp;&nbsp;
-
-<a href="mailto:dulanjanarmd@outlook.com">
-<img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" width="48" height="48" />
-</a>
 
 </p>
 
