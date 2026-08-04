@@ -1,297 +1,245 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:C44BC4,50:6A5ACD,75:36BCF7,100:00D9C0&height=250&section=header&text=Dulanjana%20Rathanayaka&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc)](https://github.com/dulanjanarmd)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,35:6366F1,70:8B5CF6,100:06B6D4&height=240&section=header&text=Dulanjana%20Rathnayaka&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Business%20Analyst%20|%20Systems%20Analyst%20|%20Data%20Analyst&descAlignY=55)](https://github.com/dulanjanarmd)
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=800&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Dulanjana+Rathanayaka;Aspiring+Business+Analyst+%F0%9F%93%8A;Aspiring+Data+Analyst+%F0%9F%93%88;Aspiring+Systems+Analyst+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=850&lines=Information+Systems+Engineering+Undergraduate;Aspiring+Business+Analyst;Aspiring+Systems+Analyst;Aspiring+Data+Analyst;Turning+Business+Problems+Into+Technology+Solutions" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=1000&color=00D9C0&center=true&vCenter=true&width=900&height=60&lines=BSc+(Hons)+Information+Technology;Specializing+in+Information+Systems+Engineering;%F0%9F%93%8D+Sri+Lanka+Institute+of+Information+Technology+(SLIIT)" alt="Education Typing SVG" />
+
+<a href="https://github.com/dulanjanarmd">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/dulanjanarmd">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:dulanjanarmd@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👋 About Me
 
-I am an Information Systems Engineering undergraduate passionate about using **data, technology, and business analysis techniques** to solve real-world problems.
+I'm an **Information Systems Engineering Undergraduate** at **Sri Lanka Institute of Information Technology (SLIIT)** with a passion for solving business problems using technology and data.
 
-My goal is to bridge the gap between **business requirements and technology solutions** by analyzing data, understanding business processes, and designing efficient information systems.
+My interests lie at the intersection of **Business Analysis**, **Systems Analysis**, and **Data Analytics**, where I enjoy understanding business needs, designing efficient systems, analyzing data, and delivering practical solutions.
 
-I am interested in:
-
-- 📊 Data Analysis & Business Intelligence
-- 💼 Business Analysis
-- 🏢 System Analysis & Design
-- 🗄️ Database Management & Design
-- 💻 Software Engineering
-- 🚀 Digital Transformation Solutions
-
-I enjoy learning how organizations use technology and data to improve decision-making, optimize processes, and create better user experiences.
+I am continuously developing my knowledge in modern analytical tools, system design methodologies, and business process improvement while building real-world software and analytics projects.
 
 ---
 
-# 🎯 Career Goals
+# 🎯 Career Focus
 
-I am building my career towards becoming a professional:
-
-### 📊 Data Analyst
-Interested in:
-- Data cleaning and preparation
-- Data visualization
-- Extracting insights from data
-- Business reporting
-- Decision-support analytics
-
-
-### 💼 Business Analyst
-Interested in:
-- Requirement gathering
-- Stakeholder communication
-- Business process improvement
-- Solution evaluation
-- Documentation
-
-
-### 🏢 System Analyst
-Interested in:
-- System requirement analysis
-- System design
-- UML modeling
-- Database design
-- Software solution planning
+- Business Analysis
+- Systems Analysis
+- Data Analytics
+- Digital Transformation
+- Information Systems
+- Enterprise Solutions
 
 ---
 
-# 🛠️ Technical Skills
+# 💼 Core Competencies
 
-## 📊 Data Analytics
+### Business Analysis
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql" />
-</p>
-
-Skills:
-- SQL
-- Data Analysis
-- Data Cleaning
-- Data Visualization
-- Excel
-- Business Intelligence Concepts
-
-
----
-
-## 💼 Business & System Analysis
-
-Skills:
-- Requirement Engineering
+- Requirement Gathering
+- Requirement Documentation
+- Stakeholder Analysis
 - Business Process Analysis
-- UML Diagrams
-- Use Case Modeling
-- System Design
-- Documentation
+- Process Improvement
+- Functional Specification
+
+### Systems Analysis
+
+- System Analysis
+- UML Modeling
+- Use Case Diagrams
+- Activity Diagrams
+- Database Design
 - SDLC
 - Agile Methodologies
 
+### Data Analytics
+
+- SQL
+- Data Cleaning
+- Data Visualization
+- Dashboard Development
+- Business Intelligence
+- Reporting
 
 ---
 
-## 💻 Programming & Development
+# ⚙️ Technical Skills
+
+## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,javascript,html,css,react,spring" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript" />
 </p>
 
-Skills:
-- Java
-- JavaScript
-- React
-- Spring Boot
-- REST APIs
-- Object-Oriented Programming
-
-
----
-
-## 🗄️ Database Technologies
+## Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+<img src="https://skillicons.dev/icons?i=react,html,css" />
 </p>
 
-Skills:
-- Database Design
-- SQL Queries
-- Data Modeling
-- Database Management
+## Backend
 
+<p>
+<img src="https://skillicons.dev/icons?i=spring" />
+</p>
 
----
+## Databases
 
-## 🔧 Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+## Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
 </p>
 
-Tools:
-- Git & GitHub
-- Visual Studio Code
-- Postman
-- Docker
-- Development & Collaboration Tools
-
 ---
 
 # 🚀 Featured Projects
 
-## 📚 Online Library Management System
+## 🏠 Smart Rental Decision Platform *(In Progress)*
 
-A web-based information system designed to manage library operations digitally.
+A data-driven platform that helps tenants make informed rental decisions using business analytics and system intelligence.
 
-### Key Features:
-- User authentication
-- Role-based access control
+### Highlights
+
+- Rental price prediction
+- Property comparison
+- Business analytics dashboard
+- Location analysis
+- Decision support
+- Data visualization
+
+**Tech Stack**
+
+`React` `Spring Boot` `MySQL`
+
+---
+
+## 📚 Library Management System
+
+A role-based web application that digitizes library operations with secure authentication and streamlined workflows.
+
+### Features
+
+- Role-based access
 - Book management
-- Borrowing and renewal workflows
-- Administrative dashboard
-
-### Technologies:
-- React
-- Spring Boot
-- MySQL
+- Borrow & return workflow
+- Admin dashboard
 - REST API
 
+**Tech Stack**
+
+`React` `Spring Boot` `MySQL`
 
 ---
 
 ## 🏥 Medical Inventory Management System
 
-A system designed to improve inventory management processes and provide efficient data handling.
+An inventory management solution designed to improve stock control and healthcare operations.
 
-### Key Features:
+### Features
+
 - Inventory tracking
-- Data management
+- Stock management
 - User management
-- Business process improvement
-
-### Technologies:
-- Frontend Technologies
-- Backend APIs
-- Database Systems
-
+- Reporting
 
 ---
 
-# 📚 Currently Learning
+# 📊 GitHub Analytics
 
-🌱 Improving my knowledge in:
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=dulanjanarmd&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulanjanarmd&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=dulanjanarmd&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dulanjanarmd&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 📜 Certifications
+
+- Google Data Analytics *(Learning)*
+- Microsoft Power BI *(Learning)*
+- Oracle Java *(Learning)*
+
+---
+
+# 🌱 Currently Exploring
 
 - Advanced SQL
-- Python for Data Analysis
 - Power BI
-- Data Visualization
+- Python for Data Analytics
 - Business Intelligence
+- Enterprise Architecture
 - Requirement Engineering
-- UML & System Modeling
-- Software Architecture
-- Agile Project Management
-
-
----
-
-
-# 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-![Metrics](https://metrics.lecoq.io/dulanjanarmd?template=classic&base.indepth=true&repositories.forks=true&languages=1&stargazers=1&stars=1&people=1&notable=1&traffic=1&gists=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=true&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stargazers=false&stargazers.days=14&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.sample=0&stars=false&stars.limit=4&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&traffic=false&gists=false&config.timezone=America%2FLos_Angeles)
-
-
-----
-
-
-# 📈 GitHub Statistics
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dulanjanarmd&theme=tokyonight" 
-    width="48%" 
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dulanjanarmd&theme=tokyonight" 
-    width="48%" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=dulanjanarmd&theme=tokyonight&hide_border=true" 
-    width="70%" 
-  />
-</p>
-
-# 📊 Contribution Activity
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=dulanjanarmd&theme=tokyo-night&hide_border=true"
-    width="95%"
-  />
-</p>
-
----
-
-# 🏆 Certifications & Achievements
-
-Currently building my professional knowledge through:
-
-- Technology courses
-- Data analytics learning
-- Software engineering projects
-- Business analysis practices
-
+- System Modeling
+- Dashboard Design
 
 ---
 
 # 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.linkedin.com/in/dulanjanarmd">
+<a href="https://linkedin.com/in/dulanjanarmd">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+
 &nbsp;&nbsp;
 
 <a href="https://github.com/dulanjanarmd">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
-&nbsp;&nbsp;
 
-<a href="https://www.reddit.com/user/dulanjanarmd">
-<img src="https://cdn.simpleicons.org/reddit" width="48" height="48" />
-</a>
-&nbsp;&nbsp;
-
-<a href="https://x.com/dulanjanarmd">
-<img src="https://cdn.simpleicons.org/x" width="48" height="48" />
-</a>
-&nbsp;&nbsp;
-
-<a href="https://medium.com/@dulanjanarmd">
-<img src="https://cdn.simpleicons.org/medium" width="48" height="48" />
-</a>
 &nbsp;&nbsp;
 
 <a href="mailto:dulanjanarmd@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-&nbsp;&nbsp;
 
 </p>
 
 ---
 
-# 💡 My Vision
+# 💭 Professional Vision
 
-> "To combine business knowledge, data insights, and technology solutions to create meaningful impact."
+> *"Leveraging business analysis, systems thinking, and data-driven insights to design technology solutions that create measurable business value."*
 
 ---
 
-⭐ Thanks for visiting my GitHub profile!
+<p align="center">
+
+⭐ Thank you for visiting my profile!
+
+If you're interested in collaborating on Business Analysis, Systems Analysis, or Data Analytics projects, feel free to connect.
+
+</p>
