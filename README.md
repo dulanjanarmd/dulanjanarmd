@@ -264,16 +264,6 @@ Currently building my professional knowledge through:
 </a>
 &nbsp;&nbsp;
 
-<a href="https://www.instagram.com/dulanjanarmd">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-&nbsp;&nbsp;
-
-<a href="https://www.facebook.com/dulanjanarmd">
-<img src="https://cdn.simpleicons.org/facebook" width="48" height="48" />
-</a>
-&nbsp;&nbsp;
-
 <a href="https://www.reddit.com/user/dulanjanarmd">
 <img src="https://cdn.simpleicons.org/reddit" width="48" height="48" />
 </a>
@@ -281,11 +271,6 @@ Currently building my professional knowledge through:
 
 <a href="https://x.com/dulanjanarmd">
 <img src="https://cdn.simpleicons.org/x" width="48" height="48" />
-</a>
-&nbsp;&nbsp;
-
-<a href="https://wa.me/+94 70 152 5868">
-<img src="https://cdn.simpleicons.org/whatsapp" width="48" height="48" />
 </a>
 &nbsp;&nbsp;
 
