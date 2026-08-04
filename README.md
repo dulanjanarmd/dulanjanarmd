@@ -1,245 +1,102 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,35:6366F1,70:8B5CF6,100:06B6D4&height=240&section=header&text=Dulanjana%20Rathnayaka&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Business%20Analyst%20|%20Systems%20Analyst%20|%20Data%20Analyst&descAlignY=55)](https://github.com/dulanjanarmd)
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=850&lines=Information+Systems+Engineering+Undergraduate;Aspiring+Business+Analyst;Aspiring+Systems+Analyst;Aspiring+Data+Analyst;Turning+Business+Problems+Into+Technology+Solutions" />
-</p>
+# Dulanjana Rathnayaka
+### Business Analyst | Systems Analyst | Data Analyst
 
-<p align="center">
+BSc (Hons) Information Technology — Information Systems Engineering  
+Sri Lanka Institute of Information Technology (SLIIT)
 
-<a href="https://github.com/dulanjanarmd">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+[LinkedIn](https://www.linkedin.com/in/dulanjanarmd) · [GitHub](https://github.com/dulanjanarmd) · [Medium](https://medium.com/@dulanjanarmd) · [Email](mailto:dulanjanarmd@gmail.com)
 
-<a href="https://linkedin.com/in/dulanjanarmd">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:dulanjanarmd@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-# 👋 About Me
+## About
 
-I'm an **Information Systems Engineering Undergraduate** at **Sri Lanka Institute of Information Technology (SLIIT)** with a passion for solving business problems using technology and data.
+Information Systems Engineering undergraduate focused on the intersection of **business analysis, systems analysis, and data-driven decision making**. I work on translating business requirements into structured, technically sound solutions — from requirement elicitation and process modeling through to system design and data-backed recommendations.
 
-My interests lie at the intersection of **Business Analysis**, **Systems Analysis**, and **Data Analytics**, where I enjoy understanding business needs, designing efficient systems, analyzing data, and delivering practical solutions.
-
-I am continuously developing my knowledge in modern analytical tools, system design methodologies, and business process improvement while building real-world software and analytics projects.
+Currently building a portfolio of end-to-end projects to demonstrate this pipeline: understanding a business problem, specifying it formally, and delivering a working system or analysis that addresses it.
 
 ---
 
-# 🎯 Career Focus
+## Focus Areas
 
-- Business Analysis
-- Systems Analysis
-- Data Analytics
-- Digital Transformation
-- Information Systems
-- Enterprise Solutions
+**Business Analysis**
+Requirement elicitation and documentation (SRS/BRD), stakeholder needs analysis, process mapping, use case modeling, solution evaluation.
 
----
+**Systems Analysis & Design**
+System requirement specification, UML modeling (use case, class, sequence, activity diagrams), database design, SDLC and Agile delivery.
 
-# 💼 Core Competencies
-
-### Business Analysis
-
-- Requirement Gathering
-- Requirement Documentation
-- Stakeholder Analysis
-- Business Process Analysis
-- Process Improvement
-- Functional Specification
-
-### Systems Analysis
-
-- System Analysis
-- UML Modeling
-- Use Case Diagrams
-- Activity Diagrams
-- Database Design
-- SDLC
-- Agile Methodologies
-
-### Data Analytics
-
-- SQL
-- Data Cleaning
-- Data Visualization
-- Dashboard Development
-- Business Intelligence
-- Reporting
+**Data Analysis**
+Data cleaning and preparation, exploratory analysis, visualization, and translating data into business insight and reporting.
 
 ---
 
-# ⚙️ Technical Skills
+## Featured Projects
 
-## Languages
+### Smart Rental Decision & Tenant Risk Analysis Platform
+A web platform helping Sri Lankan university students evaluate rental options using a weighted Rental Value Score model.
+- Authored a full IEEE-830-style Software Requirements Specification
+- Designed a weighted scoring algorithm to rank rental listings by value and risk
+- Built the MVP on Spring Boot (backend) and React (frontend)
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript" />
-</p>
+`Requirements Engineering` `System Design` `Spring Boot` `React` `MySQL`
 
-## Frontend
+### LankaThread — E-Commerce Platform
+Backend system for a Sri Lanka–focused e-commerce use case, with a requirements document covering functional and non-functional needs specific to the local market (cash-on-delivery, WhatsApp-based support, LKR pricing).
+- Authored a Requirements Gathering Document (user stories, functional/non-functional requirements)
+- Implemented authentication and authorization with Spring Security and JWT
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css" />
-</p>
+`Requirement Analysis` `Spring Boot` `Spring Security` `JWT` `MySQL`
 
-## Backend
+### Student Library Management System (SLMS)
+A digital system for managing library operations, from cataloguing to borrowing workflows.
+- Modeled core use cases and system workflows
+- Built on Spring Boot 3.2.5 (JDK 21) with a React frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring" />
-</p>
+`System Analysis` `Spring Boot` `React` `MySQL`
 
-## Databases
+### Sri Lankan Market Data Analysis *(in progress)*
+Exploratory data analysis project investigating price volatility, traffic patterns, or rental pricing trends in the Sri Lankan market, intended to demonstrate an independent data-analyst workflow from raw data to insight.
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
-
-## Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
-</p>
+`Python` `Data Cleaning` `Data Visualization`
 
 ---
 
-# 🚀 Featured Projects
+## Skills
 
-## 🏠 Smart Rental Decision Platform *(In Progress)*
-
-A data-driven platform that helps tenants make informed rental decisions using business analytics and system intelligence.
-
-### Highlights
-
-- Rental price prediction
-- Property comparison
-- Business analytics dashboard
-- Location analysis
-- Decision support
-- Data visualization
-
-**Tech Stack**
-
-`React` `Spring Boot` `MySQL`
+| Category | Skills |
+|---|---|
+| **Business & Systems Analysis** | Requirement Engineering, BRD/SRS Documentation, UML Modeling, Use Case Analysis, Process Improvement, SDLC, Agile |
+| **Data Analysis** | SQL, Python, Data Cleaning, Data Visualization, Excel, BI Concepts |
+| **Development** | Java, JavaScript, React, Spring Boot, REST APIs, OOP |
+| **Databases** | MySQL, MongoDB, PostgreSQL, Data Modeling |
+| **Tools** | Git & GitHub, VS Code, Postman, Docker |
 
 ---
 
-## 📚 Library Management System
+## Currently Learning
 
-A role-based web application that digitizes library operations with secure authentication and streamlined workflows.
-
-### Features
-
-- Role-based access
-- Book management
-- Borrow & return workflow
-- Admin dashboard
-- REST API
-
-**Tech Stack**
-
-`React` `Spring Boot` `MySQL`
+Advanced SQL · Power BI · Requirement Engineering practices · Software Architecture · Agile Project Management
 
 ---
 
-## 🏥 Medical Inventory Management System
+## GitHub Activity
 
-An inventory management solution designed to improve stock control and healthcare operations.
+<div align="center">
 
-### Features
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dulanjanarmd&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dulanjanarmd&theme=tokyonight" width="48%" />
 
-- Inventory tracking
-- Stock management
-- User management
-- Reporting
+<img src="https://streak-stats.demolab.com/?user=dulanjanarmd&theme=tokyonight&hide_border=true" width="70%" />
 
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=dulanjanarmd&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulanjanarmd&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=dulanjanarmd&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dulanjanarmd&theme=tokyo-night&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-# 📜 Certifications
+<div align="center">
 
-- Google Data Analytics *(Learning)*
-- Microsoft Power BI *(Learning)*
-- Oracle Java *(Learning)*
+*Open to Business Analyst, Systems Analyst, and Data Analyst internship opportunities.*
 
----
-
-# 🌱 Currently Exploring
-
-- Advanced SQL
-- Power BI
-- Python for Data Analytics
-- Business Intelligence
-- Enterprise Architecture
-- Requirement Engineering
-- System Modeling
-- Dashboard Design
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/dulanjanarmd">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/dulanjanarmd">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:dulanjanarmd@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-</p>
-
----
-
-# 💭 Professional Vision
-
-> *"Leveraging business analysis, systems thinking, and data-driven insights to design technology solutions that create measurable business value."*
-
----
-
-<p align="center">
-
-⭐ Thank you for visiting my profile!
-
-If you're interested in collaborating on Business Analysis, Systems Analysis, or Data Analytics projects, feel free to connect.
-
-</p>
+</div>
