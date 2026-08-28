@@ -1,8 +1,7 @@
 <div align="center">
 
 # Dulanjana Rathnayaka
-### Business Analyst | Systems Analyst | Data Analyst
-
+### Business Analyst | Systems Analyst
 BSc (Hons) Information Technology — Information Systems Engineering  
 Sri Lanka Institute of Information Technology (SLIIT)
 
