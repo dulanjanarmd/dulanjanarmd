@@ -5,7 +5,7 @@
 BSc (Hons) Information Technology — Information Systems Engineering  
 Sri Lanka Institute of Information Technology (SLIIT)
 
-[LinkedIn](https://www.linkedin.com/in/dulanjanarmd) · [GitHub](https://github.com/dulanjanarmd) · [Medium](https://medium.com/@dulanjanarmd) · [Email](mailto:dulanjanarmd@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/dulanjanarmd) · [GitHub](https://github.com/dulanjanarmd) · [Email](mailto:dulanjanarmd@gmail.com)
 
 </div>
 
