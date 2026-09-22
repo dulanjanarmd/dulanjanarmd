@@ -18,12 +18,6 @@
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=dulanjanarmd&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS"/>
-
-</div>
-
 ---
 
 # 🧭 Professional Profile
