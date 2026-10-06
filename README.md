@@ -1,55 +1,124 @@
-<div align="center">
-Dulanjana Rathnayaka
+<h1 align="center">Dulanjana Rathnayaka</h1>
 
-Business Analysis · Systems Analysis
+<p align="center">
+  <b>Business Analyst · Systems Analyst</b><br>
+  BSc (Hons) Information Systems Engineering · SLIIT, Sri Lanka
+</p>
 
-BSc (Hons) Information Systems Engineering, SLIIT, Sri Lanka
+<p align="center">
+  <a href="https://www.linkedin.com/in/dulanjanarmd"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:dulanjanarmd@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-LinkedIn · Email
+<hr>
 
-</div>
-Profile
+<h2>Profile</h2>
 
-Third-year Information Systems Engineering undergraduate specializing in Business Analysis and Systems Analysis. I translate business problems into well-defined requirements and requirements into structured system designs, using development and data analysis to validate assumptions and align with technical teams.
+<p>
+Third-year Information Systems Engineering undergraduate specializing in Business Analysis and Systems Analysis. I translate business problems into well-defined requirements, and requirements into structured system designs, using development and data analysis to validate assumptions and align with technical teams.
+</p>
 
-Seeking internship opportunities in Business Analysis, Project Management, Quality Assurance, and ERP Consulting.
+<p>
+<b>Seeking internships in:</b> Business Analysis · Project Management · Quality Assurance · ERP Consulting
+</p>
 
-Core Competencies
+<h2>Core Competencies</h2>
 
-Business Analysis Requirements Elicitation · Stakeholder Analysis · BRD / SRS Documentation · User Stories & Acceptance Criteria · Gap Analysis · Process Analysis · Solution Evaluation
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Business Analysis</b>
+      <ul>
+        <li>Requirements Elicitation</li>
+        <li>Stakeholder Analysis</li>
+        <li>BRD / SRS Documentation</li>
+        <li>User Stories &amp; Acceptance Criteria</li>
+        <li>Gap &amp; Process Analysis</li>
+        <li>Solution Evaluation</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <b>Systems Analysis &amp; Design</b>
+      <ul>
+        <li>UML Modelling</li>
+        <li>Process Modelling</li>
+        <li>Data Modelling</li>
+        <li>System Design</li>
+        <li>API Analysis</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-Systems Analysis & Design UML Modelling · Process Modelling · Data Modelling · System Design · API Analysis
+<h2>Tools &amp; Technologies</h2>
 
-Tools & Technologies
-	
-Analysis & Modelling	Draw.io, Lucidchart, Figma, Jira, Agile / Scrum
-Data & Analytics	SQL, Power BI, Excel, MySQL, PostgreSQL, MongoDB
-Development	Java, Spring Boot, React, JavaScript, Python, Git
-Selected Projects
+<table>
+  <tr>
+    <td width="30%"><b>Analysis &amp; Modelling</b></td>
+    <td>Draw.io · Lucidchart · Figma · Jira · Agile / Scrum</td>
+  </tr>
+  <tr>
+    <td><b>Data &amp; Analytics</b></td>
+    <td>SQL · Power BI · Excel · MySQL · PostgreSQL · MongoDB</td>
+  </tr>
+  <tr>
+    <td><b>Development</b></td>
+    <td>Java · Spring Boot · React · JavaScript · Python · Git</td>
+  </tr>
+</table>
 
-Smart Rental Decision & Tenant Risk Analysis Platform Decision-support system for university students selecting rental accommodation.
+<h2>Selected Projects</h2>
 
-Led the analysis phase: stakeholder identification, requirements elicitation, and business rule definition
-Authored an IEEE 830-style SRS and modelled the system in UML
-Designed a weighted scoring model for tenant risk and rental suitability
-Spring Boot · React · MySQL
+<table>
+  <tr>
+    <td width="30%" valign="top">
+      <b>Smart Rental Decision &amp; Tenant Risk Analysis Platform</b><br>
+      <sub>Spring Boot · React · MySQL</sub>
+    </td>
+    <td valign="top">
+      Decision-support system for university students selecting rental accommodation.
+      <ul>
+        <li>Led the analysis phase: stakeholder identification, requirements elicitation and business rule definition</li>
+        <li>Authored an IEEE 830-style SRS and modelled the system in UML</li>
+        <li>Designed a weighted scoring model for tenant risk and rental suitability</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>LankaThread<br>E-Commerce Information System</b><br>
+      <sub>Spring Boot · Spring Security · JWT · MySQL</sub>
+    </td>
+    <td valign="top">
+      E-commerce platform aligned to local business and customer requirements.
+      <ul>
+        <li>Produced the requirements document, user stories, and functional and non-functional requirements</li>
+        <li>Implemented authentication and authorization using Spring Security and JWT</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>Student Library Management System</b><br>
+      <sub>Java · Spring Boot · React · MySQL</sub>
+    </td>
+    <td valign="top">
+      Information system for university library operations, delivered from requirements to implementation.
+      <ul>
+        <li>Modelled use cases and workflows prior to development</li>
+        <li>Designed the database schema and system architecture</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-LankaThread: E-Commerce Information System E-commerce platform aligned to local business and customer requirements.
+<h2>Certifications</h2>
 
-Produced the requirements document, user stories, and functional and non-functional requirements
-Implemented authentication and authorization using Spring Security and JWT
-Spring Boot · Spring Security · JWT · MySQL
+<ul>
+  <li>IBM Business Analyst Professional Certificate (Coursera)</li>
+  <li>IBM Data Analyst Professional Certificate (Coursera)</li>
+</ul>
 
-Student Library Management System Information system for university library operations, delivered from requirements to implementation.
+<hr>
 
-Modelled use cases and workflows prior to development
-Designed the database schema and system architecture
-Java · Spring Boot · React · MySQL
-Certifications
-IBM Business Analyst Professional Certificate (Coursera)
-IBM Data Analyst Professional Certificate (Coursera)
-<div align="center">
-
-Understand the business. Model the problem. Design the system.
-
-</div>
+<p align="center"><i>Understand the business. Model the problem. Design the system.</i></p>
