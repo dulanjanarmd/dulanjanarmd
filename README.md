@@ -1,108 +1,55 @@
 <div align="center">
+Dulanjana Rathnayaka
 
-# Dulanjana Rathnayaka
+Business Analysis · Systems Analysis
 
-**Business Analysis · Systems Analysis · Enterprise Architecture**
+BSc (Hons) Information Systems Engineering, SLIIT, Sri Lanka
 
-BSc (Hons) Information Systems Engineering — SLIIT, Sri Lanka
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dulanjanarmd)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dulanjanarmd)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dulanjanarmd@gmail.com)
+LinkedIn · Email
 
 </div>
+Profile
 
----
+Third-year Information Systems Engineering undergraduate specializing in Business Analysis and Systems Analysis. I translate business problems into well-defined requirements and requirements into structured system designs, using development and data analysis to validate assumptions and align with technical teams.
 
-## About
+Seeking internship opportunities in Business Analysis, Project Management, Quality Assurance, and ERP Consulting.
 
-I'm a third-year Information Systems Engineering undergraduate building toward a career that moves from **Business Analysis**, through **Systems Analysis**, into **Enterprise Architecture**. My interest is in how business strategy, processes, information, applications, and technology fit together to produce systems that actually solve the problem in front of them — not just working software.
+Core Competencies
 
-On every project, I try to answer three questions in order:
+Business Analysis Requirements Elicitation · Stakeholder Analysis · BRD / SRS Documentation · User Stories & Acceptance Criteria · Gap Analysis · Process Analysis · Solution Evaluation
 
-- **Business** — what problem are we actually solving?
-- **Systems** — what should the system do to support that?
-- **Architecture** — how does this fit into the wider organization?
+Systems Analysis & Design UML Modelling · Process Modelling · Data Modelling · System Design · API Analysis
 
-I use data analysis and software development as tools to validate requirements, test assumptions, and communicate with technical teams — not as ends in themselves.
+Tools & Technologies
+	
+Analysis & Modelling	Draw.io, Lucidchart, Figma, Jira, Agile / Scrum
+Data & Analytics	SQL, Power BI, Excel, MySQL, PostgreSQL, MongoDB
+Development	Java, Spring Boot, React, JavaScript, Python, Git
+Selected Projects
 
----
+Smart Rental Decision & Tenant Risk Analysis Platform Decision-support system for university students selecting rental accommodation.
 
-## Core Expertise
+Led the analysis phase: stakeholder identification, requirements elicitation, and business rule definition
+Authored an IEEE 830-style SRS and modelled the system in UML
+Designed a weighted scoring model for tenant risk and rental suitability
+Spring Boot · React · MySQL
 
-**Business Analysis**
-Requirements engineering · Stakeholder analysis · BRD/SRS documentation · User stories & acceptance criteria · Gap analysis · Process analysis · Solution evaluation
+LankaThread: E-Commerce Information System E-commerce platform aligned to local business and customer requirements.
 
-**Systems Analysis**
-UML & system modelling · Process modelling · Use case & sequence diagrams · Data modelling · System design · API analysis
+Produced the requirements document, user stories, and functional and non-functional requirements
+Implemented authentication and authorization using Spring Security and JWT
+Spring Boot · Spring Security · JWT · MySQL
 
-**Enterprise Architecture (learning)**
-Business, data, application & technology architecture · As-is / to-be analysis · Architecture principles · TOGAF fundamentals
+Student Library Management System Information system for university library operations, delivered from requirements to implementation.
 
----
-
-## Technical Skills
-
+Modelled use cases and workflows prior to development
+Designed the database schema and system architecture
+Java · Spring Boot · React · MySQL
+Certifications
+IBM Business Analyst Professional Certificate (Coursera)
+IBM Data Analyst Professional Certificate (Coursera)
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,js,python,mysql,postgres,mongodb,git,github,docker,figma&perline=6"/>
-
-</div>
-
-**Languages & Frameworks:** Java, Spring Boot, React, JavaScript, Python, SQL
-**Data & Tools:** MySQL, PostgreSQL, MongoDB, REST APIs, Power BI, Excel
-**Modelling & Delivery:** Figma, Draw.io, Lucidchart, Jira, Git, Agile/Scrum
-
----
-
-## Featured Projects
-
-### Smart Rental Decision & Tenant Risk Analysis Platform
-A decision-support system for Sri Lankan university students choosing rental accommodation.
-- Led the analysis phase: stakeholder identification, problem analysis, requirements elicitation, and business rule definition
-- Authored an IEEE‑830-style SRS and modelled the system in UML
-- Designed a weighted scoring model for tenant risk and rental suitability
-- **Stack:** Spring Boot, React, MySQL
-
-### LankaThread — E-Commerce Platform
-An e-commerce information system built around local (Sri Lankan) business and customer requirements.
-- Produced the requirements gathering document, user stories, and functional/non-functional requirements
-- Implemented authentication and authorization with Spring Security and JWT
-- **Stack:** Spring Boot, Spring Security, JWT, MySQL
-
-### Student Library Management System
-An information system for managing university library operations, from requirements through to a working system.
-- Modelled use cases and workflows before implementation
-- Designed the underlying database and system architecture
-- **Stack:** Spring Boot, React, MySQL, Java
-
----
-
-## Currently Learning
-
-Enterprise Architecture (TOGAF fundamentals) · Advanced SQL & Business Intelligence · UML & system design patterns · Stakeholder management & process analysis
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dulanjanarmd&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulanjanarmd&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dulanjanarmd&theme=tokyo-night&hide_border=true" width="97%"/>
-
-</div>
-
----
-
-<div align="center">
-
-**Understand the business → Model the problem → Design the system → Enable the enterprise**
-
-[LinkedIn](https://www.linkedin.com/in/dulanjanarmd) · [GitHub](https://github.com/dulanjanarmd) · [Email](mailto:dulanjanarmd@gmail.com)
+Understand the business. Model the problem. Design the system.
 
 </div>
